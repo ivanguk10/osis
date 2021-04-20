@@ -1,0 +1,6 @@
+args/input1.txt: 10.000000
+args/input2.txt: 1.000000
+args/input3.txt: 25.000000
+args/input4.txt: 38.720000
+args/input5.txt: 30.250000
+args/input6.txt: 12.900000
